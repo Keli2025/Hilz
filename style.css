@@ -37,6 +37,18 @@ body {
   color: transparent;
 }
 
+.logo-text:hover {
+  background: linear-gradient(90deg, #fff, #ff8ce6);
+  -webkit-background-clip: text;
+  color: transparent;
+}
+
+.logo img {
+  width: 104px;
+  height: 104px;
+  object-fit: contain;
+}
+
 nav a {
   margin-left: 28px;
   text-decoration: none;
